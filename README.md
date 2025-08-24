@@ -12,7 +12,7 @@ classical portfolio allocation strategies with **machine learning / deep learnin
 - **Benchmark:** S&P 500 for comparison.  
 - **KPIs:** CAGR, Volatility, Sharpe ratio, Max Drawdown.  
 
-➡ Goal: Show how simple rules can sometimes outperform the benchmark.
+Goal: Show how simple rules can sometimes outperform the benchmark.
 
 ### 2. Machine Learning Models
 - **LSTM (Long Short-Term Memory):**  
